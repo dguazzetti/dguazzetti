@@ -7,24 +7,26 @@
 </div>
 
 <h3>Sobre mi ⭐</h3>
-<p>Soy Maciel Alberto Fernandez, desarrollador de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina</p>
+<p>Soy Daiana Guazzetti, desarrolladora de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina</p>
 
-- 🎓 Técnico en Desarrollo de Software (ISFT 204)
+- 🎓 Técnica en Desarrollo de Software (ISFT 204)
 
-- 🎓 Técnico en Industria de Procesos (EET 3)
+- 🎓 Profesora en Ciencias Biológicas (ISFD 19)
+  
+- 🎓 Profesora en Ciencias Informáticas (Conjunción de Títulos)
 
 - 👨‍💻 Obrserva mi portfolio: [https://macielfernandezportfolio.netlify.app/](https://macielfernandezportfolio.netlify.app/)
 
-- 📫 Contacto: macalbfernandez@gmail.com
+- 📫 Contacto: guazzettidaiana204@gmail.com
 
-- :books: Aprendizaje: Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning
+- :books: Aprendizaje: Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning, Master I.A. , Industria 4.0
 
-- ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: 
+- ⚡ Hobbies: :heart: Amo jugar videojuegos 🎮:, me encanta jugar COD Mobile :gun: 
 
 <h3 align="left">Mis redes sociales:</h3>
 
-- <a href="https://www.linkedin.com/in/maciel-fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maciel-fernandez/" height="20" width="30" /></a>
-- <a href="https://www.instagram.com/maciel.fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maciel.fernandez/" height="20" width="30" /></a>
+- <a href="https://www.linkedin.com/in/daiana-guazzetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daiana-guazzetti/" height="20" width="30" /></a>
+- <a href="https://www.instagram.com/dguazzetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://https://www.instagram.com/dguazzetti//" height="20" width="30" /></a>
 <br><br>
 <h2 align="center">👨‍💻 Técnologias que uso:</h2>
 
