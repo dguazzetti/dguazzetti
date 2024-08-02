@@ -17,7 +17,7 @@
   
 - 🎓 Master en Inteligencia Artificial (Intel/BGH/Boundty.edtch)
 
-- 👨‍💻 Obrserva mi portfolio: comming soon
+- 👨‍💻 Obrserva mi portfolio: coming soon
 
 - 📫 Contacto: guazzettidaiana204@gmail.com
 
