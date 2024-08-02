@@ -14,7 +14,7 @@
 - 🎓 Profesora en Ciencias Biológicas (ISFD 19)
   
 - 🎓 Profesora en Ciencias Informáticas (Conjunción de Títulos)
-- 
+  
 - 🎓 Master en Inteligencia Artificial (Intel/BGH/Boundty.edtch)
 
 - 👨‍💻 Obrserva mi portfolio: comming soon
