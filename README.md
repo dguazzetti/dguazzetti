@@ -21,7 +21,7 @@
 
 - 📫 Contacto: guazzettidaiana204@gmail.com
 
-- :books: Aprendizaje: Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning, Master I.A. , Industria 4.0
+- :books: Aprendizaje: Exploración de datos // EDA. Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning, Master I.A. , Industria 4.0
 
 - ⚡ Hobbies: :heart: Amo jugar videojuegos 🎮:, me encanta jugar COD Mobile :gun: 
 
