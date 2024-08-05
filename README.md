@@ -17,7 +17,7 @@
   
 - 🎓 Master en Inteligencia Artificial (Intel/BGH/Boundty.edtch)
 
-- 👨‍💻 Obrserva mi portfolio: coming soon
+- 👩🏻‍💻 Obrserva mi portfolio: coming soon
 
 - 📫 Contacto: guazzettidaiana204@gmail.com
 
@@ -30,7 +30,7 @@
 - <a href="https://www.linkedin.com/in/daiana-guazzetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daiana-guazzetti/" height="20" width="30" /></a>
 - <a href="https://www.instagram.com/dguazzetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://https://www.instagram.com/dguazzetti//" height="20" width="30" /></a>
 <br><br>
-<h2 align="center">👨‍💻 Técnologias que uso:</h2>
+<h2 align="center">👩🏻‍💻 Técnologias que uso:</h2>
 
 <h3 align="left">Lenguajes:</h3>
 <p align="left">
